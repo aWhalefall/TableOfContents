@@ -13,7 +13,7 @@
 | 录屏-unity | [https://github.com/aWhalefall/ScreenRecorder](https://github.com/aWhalefall/ScreenRecorder) | |
 | Unity-Android demo | [https://github.com/aWhalefall/Unity-Android](https://github.com/aWhalefall/Unity-Android) | |
 | wan Android | [https://github.com/aWhalefall/polymerization](https://github.com/aWhalefall/polymerization) | |
-| Lifecycles 生命周期组件 | [https://github.com/aWhalefall/wan Android](https://github.com/aWhalefall/wan Android) | |
+| Lifecycles 生命周期组件 | [https://github.com/aWhalefall/wanAndroid](https://github.com/aWhalefall/wanAndroid) | |
 | kotlin 练习 | [https://github.com/aWhalefall/Lifecycles](https://github.com/aWhalefall/Lifecycles) | |
 | Nydialog 全局dialog | [https://github.com/aWhalefall/andoridkotlin](https://github.com/aWhalefall/andoridkotlin) | |
 | RxjavaDemo | [https://github.com/aWhalefall/Nydialog](https://github.com/aWhalefall/Nydialog) | |
