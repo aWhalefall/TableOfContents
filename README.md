@@ -21,7 +21,7 @@
 | DataBinding | [https://github.com/aWhalefall/googledatabinding](https://github.com/aWhalefall/googledatabinding) | |
 | dagger | [https://github.com/aWhalefall/dagger](https://github.com/aWhalefall/dagger) | |
 | MaterialDesignToolsbar demo | [https://github.com/aWhalefall/MaterialDesignToolsbar](https://github.com/aWhalefall/MaterialDesignToolsbar) | |
-| jenkins版本tag 列表 | [https://codechina.csdn.net/mirrors/jenkinsci/jenkins/-/tags](https://codechina.csdn.net/mirrors/jenkinsci/jenkins/-/tags) | |
-| jenkins插件下载列表 | [http://updates.jenkins-ci.org/download/plugins/](http://updates.jenkins-ci.org/download/plugins/) | |
+| jenkins版本tag 列表 | [https://codechina.csdn.net/mirrors/jenkinsci/jenkins/-/tags](https://codechina.csdn.net/mirrors/jenkinsci/jenkins/-/tags) |7/29|
+| jenkins插件下载列表 | [http://updates.jenkins-ci.org/download/plugins/](http://updates.jenkins-ci.org/download/plugins/) |7/29 |
 
   
