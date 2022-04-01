@@ -31,6 +31,7 @@
 | google codeLab | [jetpack-compose 主题样式定义](https://developer.android.google.cn/codelabs/jetpack-compose-theming?hl=zh-cn#2) |3/14 |
 |材料设计| [https://material.io/design/environment/surfaces.html#attributes](https://material.io/design/environment/surfaces.html#attributes)|3/14|
 |Md3|[https://m3.material.io/components/buttons/overview](https://m3.material.io/components/buttons/overview)|3/14|
+|视频学习|[国家高等教育视频平台](https://higher.smartedu.cn/)|4/1|
 
 
 
