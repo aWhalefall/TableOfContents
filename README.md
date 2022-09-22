@@ -33,6 +33,7 @@
 |材料设计| [https://material.io/design/environment/surfaces.html#attributes](https://material.io/design/environment/surfaces.html#attributes)|3/14|
 |Md3|[https://m3.material.io/components/buttons/overview](https://m3.material.io/components/buttons/overview)|3/14|
 |视频学习|[国家高等教育视频平台](https://higher.smartedu.cn/)|4/1|
+|git大文件清除|[bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner)|20220922|
 
 
 
