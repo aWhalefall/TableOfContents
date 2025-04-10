@@ -24,6 +24,7 @@
 | jenkins版本tag 列表 | [https://codechina.csdn.net/mirrors/jenkinsci/jenkins/-/tags](https://codechina.csdn.net/mirrors/jenkinsci/jenkins/-/tags) |7/29|
 | jenkins插件下载列表 | [http://updates.jenkins-ci.org/download/plugins/](http://updates.jenkins-ci.org/download/plugins/) |7/29 |
 |  首次新用户引导|[https://github.com/aWhalefall/GuideView-master](https://github.com/aWhalefall/GuideView-master)|20220801|
+｜蓝牙框架｜[https://github.com/Jasonchenlijian/FastBle/wiki/%E5%88%9D%E5%A7%8B%E5%8C%96#%E5%88%9D%E5%A7%8B%E5%8C%96]|20250410|
 
 
 | 名称 |地址  | 时间|
